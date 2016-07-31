@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-07-31T17:04:04.044Z'
+datePublished: '2016-07-31T17:06:37.435Z'
 sourcePath: >-
   _posts/2016-04-16-food-and-beer-pre-order-or-food-and-cookery-or-phaidon-store.md
 inFeed: true
-isBasedOnUrl: 'http://www.phaidon.com/store/food-cook/food-and-beer-9780714871059/'
-hasPage: false
+hasPage: true
 keywords:
   - chefs
   - jeppe
@@ -18,7 +17,7 @@ keywords:
   - noma
 related: []
 author: []
-dateModified: '2016-07-31T17:04:02.981Z'
+dateModified: '2016-07-31T17:06:36.692Z'
 title: Food & Beer (Pre-order) | Food & Cookery | Phaidon Store
 app_links: []
 publisher:
@@ -35,6 +34,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: food-and-beer-pre-order-or-food-and-cookery-or-phaidon-store/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
