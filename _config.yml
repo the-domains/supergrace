@@ -1,4 +1,3 @@
-layout_spectrum: 0.4048182137776166
 typography_spectrum: 0.050414703553542495
 color:
   brandStrength: 0.8194156289100647
@@ -11,8 +10,10 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.4048182137776166
 name: Supergrace
 navigation:
   - name: Home
     id: 3bdd8562-90e7-444a-b823-aa32f8b2d32a
     type: content
+description: We make smart websites
