@@ -12,9 +12,6 @@ color:
     - '#160600'
 layout_spectrum: 0.4048182137776166
 name: Supergrace
-navigation:
-  - name: About
-    id: 3bdd8562-90e7-444a-b823-aa32f8b2d32a
-    type: content
+navigation: []
 title: Supergrace
 description: We make smart websites
